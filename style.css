@@ -1,0 +1,21 @@
+.menu{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 100vh;
+    width: 280px;
+    background: rgb(72, 117, 96);
+    color: aliceblue;
+}
+
+.cabecalho{
+    margin-left: 280px;
+}
+
+.logo1{
+
+}
+
+.logo2{
+
+}
